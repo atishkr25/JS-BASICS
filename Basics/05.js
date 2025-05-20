@@ -19,7 +19,7 @@ const sum = (a,b) => {
 }
 sum(1,1);
 
-// a type of dynmeic array by using (...) spread operator
+// a type of dynemic array by using (...) spread operator
 function findsum(...num) {
   console.log(num)
 }

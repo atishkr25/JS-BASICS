@@ -7,7 +7,7 @@ const stud = {
   age: 18,
   location:"ghaziabad",
   loginDays: ["sat","sun","Tues"],
-  isLogin: false
+  isLogin: false,
 };
 console.log(stud)
 
